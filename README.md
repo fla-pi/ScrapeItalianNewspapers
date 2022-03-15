@@ -1,5 +1,5 @@
 # ScrapeItalianNewspapers
-Script in Python che scarica, da una data ad un'altra, un sample a scelta di articoli dai siti di sei quotidiani italiani.
+Script in Python che scarica, da una data ad un'altra, un sample a scelta di articoli dai siti di quotidiani italiani.
 
 ## Istruzioni per l'installazione
 Per utilizzare lo script, installare le dipendenze:
@@ -17,7 +17,7 @@ python pip install -r requirements.txt
 ```
 
 ## Utilizzo
-Lo script funziona da riga di comando. I sei quotidiani su cui funziona sono commentati all'inizio del codice.
+Lo script funziona da riga di comando. 
 
 Innanzitutto, richiede di inserire l'url del sito web del quotidiano, nella forma: _sitoweb_.it
 
